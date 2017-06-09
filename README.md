@@ -16,8 +16,8 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3140-notes
 6. [Design](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/06-design.md)
 7. [Design Quality](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/07-design_quality.md)
 8. [Design Patterns](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/08-design_patterns.md)
-9. Trade-offs
-10. Performance Testing
+9. [Trade-offs](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/09-tradeoffs.md)
+10. [Performance Profiling](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/10-profiling.md)
 11. Data Interchange Formats
 12. Scrum
 13. Testing
