@@ -34,3 +34,10 @@ The goal is to **minimise coupling** and **maximise cohesion**.
 - The **Interface Segregation Principle (ISP)** states that "clients should not be forced to depend upon interfaces they do not use"
 - The **Dependency Inversion Principle** states that "high-level modules should not depend on low-level modules. Both should depend on abstractions" (i.e. abstractions should not depend on details; details should depend on abstractions)
 
+### The Circle-Ellipse Problem
+
+- Suppose you have a class `Ellipse` with the method, `Stretch`
+- Now suppose it has a sub-class called `Circle`
+- By the _Liskov Substitution Principle_, `Circle` must also inherit the method, `Stretch`
+- But when a `Circle` is stretched, it is no-longer a circle!
+
