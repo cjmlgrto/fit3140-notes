@@ -13,7 +13,7 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3140-notes
 3. [Version Control](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/03-git.md)
 4. [Microservices](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/04-microservices.md)
 5. [Requirements Gathering](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/05-requirements.md)
-6. Design
+6. [Design](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/06-design.md)
 7. UML
 8. Design Quality
 9. Design Patterns
