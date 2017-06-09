@@ -14,18 +14,17 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3140-notes
 4. [Microservices](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/04-microservices.md)
 5. [Requirements Gathering](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/05-requirements.md)
 6. [Design](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/06-design.md)
-7. UML
-8. Design Quality
-9. Design Patterns
-10. Trade-offs
-11. Performance Testing
-12. Data Interchange Formats
-13. Scrum
-14. Testing
-15. Test-Driven Development
-16. Debugging
-17. Refactoring
-18. Estimation
-19. Containers
-20. UI (Mobile Devices)
-21. Apps Deployment
+7. Design Quality
+8. Design Patterns
+9. Trade-offs
+10. Performance Testing
+11. Data Interchange Formats
+12. Scrum
+13. Testing
+14. Test-Driven Development
+15. Debugging
+16. Refactoring
+17. Estimation
+18. Containers
+19. UI (Mobile Devices)
+20. Apps Deployment

@@ -46,3 +46,26 @@ One model is not enough: we need to be able to comprehend a complex system in it
 - Some modeling notations have formal, strictly-defined rules
 - Automated ways to _prove_ things about the model
 - Provides a structured vocabulary so models are easy to understand
+
+### Unified Modelling Language
+
+There are 14 types of UML diagrams:
+
+- **Structure Diagram** (Static Modelling)
+	- [Class Diagram](http://www.agilemodeling.com/artifacts/classDiagram.htm)
+	- Component Diagram
+	- Object Diagram
+	- Profile Diagram
+	- Composite Structure Diagram
+	- Deployment Diagram
+	- Package Diagram
+- **Behaviour Diagram** (Dynamic Modelling)
+	- [Activity Diagram](http://www.agilemodeling.com/artifacts/activityDiagram.htm)
+	- Use-Case Diagram
+	- [State Machine Diagram](http://www.agilemodeling.com/artifacts/stateMachineDiagram.htm)
+	- Interaction Diagram
+		- [Sequence Diagram](http://www.agilemodeling.com/artifacts/sequenceDiagram.htm)
+		- Communication Diagram
+		- Interaction Overview Diagram
+		- Timing Diagram
+  
