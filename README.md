@@ -11,7 +11,7 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3140-notes
 1. [Intro to Agile Development](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/01-agile.md)
 2. [Risk Management](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/02-risks.md)
 3. [Version Control](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/03-git.md)
-4. Microservices, IoT and Cloud Computing
+4. [Microservices](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/04-microservices.md)
 5. Requirements Gathering
 6. Design
 7. UML
