@@ -19,7 +19,7 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3140-notes
 9. [Trade-offs](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/09-tradeoffs.md)
 10. [Performance Profiling](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/10-profiling.md)
 11. [Data Interchange Formats](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/11-dif.md)
-12. Scrum
+12. [Scrum](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/12-scrum.md)
 13. Testing
 14. Test-Driven Development
 15. Debugging
