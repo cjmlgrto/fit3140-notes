@@ -23,7 +23,7 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3140-notes
 13. [Testing](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/13-testing.md)
 14. [Test-Driven Development](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/14-tdd.md)
 15. [Debugging](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/15-debugging.md)
-16. Refactoring
+16. [Refactoring](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/16-refactoring.md)
 17. Estimation
 18. Containers
 19. UI (Mobile Devices)
