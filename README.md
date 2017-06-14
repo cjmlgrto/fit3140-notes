@@ -26,5 +26,5 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3140-notes
 16. [Refactoring](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/16-refactoring.md)
 17. [Estimation](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/17-estimation.md)
 18. [Containers](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/18-containers.md)
-19. UI (Mobile Devices)
+19. [UI (Mobile Devices)](https://github.com/cjmlgrto/fit3140-notes/blob/master/notes/19-ui.md)
 20. Apps Deployment
